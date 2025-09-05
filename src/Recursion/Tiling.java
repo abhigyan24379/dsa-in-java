@@ -13,6 +13,6 @@ public class Tiling {
        }
 
     public static void main(String[] args) {
-        System.out.println(tiling(4));
+           System.out.println(tiling(4));
     }
 }
